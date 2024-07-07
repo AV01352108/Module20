@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Alex's Electronics</title>
+</head>
+<body>
+    <h1>Electronics for sale</h1>
+    <h2>About My Theme</h2>
+    <p>This page serves as a shop for all sorts of electronics.</p>
+    <br>
+    <button type="button">Test Button</button>
+    <br>
+    <br>
+    <img src="https://github.com/AV01352108/Module8/blob/main/Logo.png?raw=true" alt="My Logo">
+</body>
+</html>
